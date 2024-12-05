@@ -53,6 +53,10 @@ To run this application locally, you need the following:
 
    This will start the app at `http://localhost:3000` in your web browser.
 
+2. **Try the live version**:  
+   If you want to try the web app without running it locally, you can visit the live version hosted on Vercel:  
+   [https://greeting-gift-card.vercel.app/](https://greeting-gift-card.vercel.app/)
+
 ## Running Tests
 
 To run the tests for the project, you can use the following command:
